@@ -27,7 +27,7 @@ A browser-based drawing application built with JavaScript, HTML, and CSS as part
 
 ## Live Demo
 
-[View Project](#)
+[View Project](https://jadecodelab.github.io/etch-a-sketch/)
 
 ## Acknowledgements
 
